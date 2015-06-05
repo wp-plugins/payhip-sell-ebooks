@@ -1,0 +1,17 @@
+/* This stylesheet is used to style the public-facing components of the plugin. */
+
+.pf_prod_disp { width: 100%; list-style: none; padding: 0; margin: 0; }
+.pf_prod_disp li { width: 31.5%; display: inline-block; border: 1px solid #ccc; padding: 3px; margin-bottom: 10px; transition: opacity 1000ms ease-out; -webkit-transition: opacity 1000ms ease-out; -moz-transition: opacity 1000ms ease-out; }
+.pf_prod_disp li a { text-decoration: none; color: #444; border: none; font-size: 14px; }
+.pf_prod_disp li .pfImg img { width: 100%; }
+.pf_prod_disp li .pfTit { font-size: 16px; line-height: 1.2; margin-top: 5px; }
+.pf_prod_disp li .pfPrice { font-size: 14px; color: #444; }
+
+.pfPagination { width: 100%; display: inline-block; margin: 20px 0 10px 0; text-align: center; }
+.pfPagination ul { list-style: none; display: inline-block; }
+.pfPagination ul li { list-style: none; margin: 0 5px; display: inline-block; }
+.pfPagination ul li.active, .pfPagination ul li:hover { background: #ccc; }
+.pfPagination ul li a { text-decoration: none; border: none; font-size: 16px; display: block; padding: 2px 6px; }
+.pfPagination ul li a:focus { border: none; outline: none; }
+
+.pf_loadGif { display: block; width: 100px; padding: 50px 0; background: url(../img/loading.GIF) no-repeat center center; margin: 0 auto; }

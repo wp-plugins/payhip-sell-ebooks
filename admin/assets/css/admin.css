@@ -1,0 +1,26 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+/* basic */
+.pfClear { clear: both; }
+.pfClear-10 { clear: both; height: 10px; }
+.pfClear-20 { clear: both; height: 20px; }
+.pfClear-30 { clear: both; height: 30px; }
+.pfClear-40 { clear: both; height: 40px; }
+
+/* form display */
+.pfWrap .pfLeft { float: left; width: 49%; }
+.pfWrap .pfRight { float: right; width: 49%; }
+.pfDisp { display: block; max-width: 800px; }
+.pfDisp .pfDispBox { clear: both; display: inline-block; width: 100%; margin-bottom: 8px; font-size: 13px; }
+.pfDisp .pfDispBox .pfDispHead { font-weight: bold; font-size: 16px; }
+.pfDisp .pfDispBox .pfDispL { float: left; width: 30%; max-width: 200px; padding: 0 5px; }
+.pfDisp .pfDispBox .pfDispS { float: left; width: 20%; max-width: 50px; padding: 0 5px; }
+
+.pfFormDisp { max-width: 800px; }
+.pfFormDisp .pfColS { width: 4em;}
+
+.pfDisp select { min-width: 200px; }
+.pfError { border: 1px solid #EC1021 !important; }
+
+/* wp 3.8.1 related css */
+.pfWrap .postbox h2, .pfWrap .postbox h3, .pfWrap .postbox h4, .pfWrap .postbox h5 { cursor: default; -webkit-user-select: inherit; -moz-user-select: inherit; user-select: inherit; }
