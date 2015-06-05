@@ -6,7 +6,7 @@ include 'general.php';
 define("PF_ASSETS_ADMIN_URL", PF_PLUGIN_URL.'/admin/assets/');
 define("PF_ASSETS_PUBLIC_URL", PF_PLUGIN_URL.'/public/assets/');
 
-define("PF_PAYHIP_CREATE_ACT_URL", 'https://payhip.com/auth/register');
+define("PF_PAYHIP_CREATE_ACT_URL", 'https://payhip.com/auth/register?utm_source=wordpress&utm_medium=link&utm_campaign=wp');
 define("PF_PAYHIP_USER_JSON_FETCH_FREQUENCY", 6); // in hrs
 
 // developer purpose
