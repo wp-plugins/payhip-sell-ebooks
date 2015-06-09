@@ -1,22 +1,42 @@
 === Payhip - Sell ebooks ===
 Contributors: payhip
 Donate link: https://payhip.com
-Tags: sell ebooks, sell downloads, sell pdf
+Tags: sell ebooks, sell pdf, sell downloads
 Requires at least: 3.5.0
 Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will allow you sell your ebooks directly and create a lovely list of all the ebooks you want to sell.
+This plugin will allow you to sell your ebooks directly to your customers and create a lovely list of all the ebooks you want to sell.
 
 == Description ==
 
-[Payhip](https://payhip.com/?utm_source=wordpress&utm_medium=link&utm_campaign=wp) lets you sell ebooks and turn your Wordpress site into an online ebook store. Your buyers can find all your ebooks in once place and buy direct from you. Payhip handles the transactions and the ebook downloads for your customers. There is no monthly fee, you simply pay when you get paid.
+[Payhip](https://payhip.com/?utm_source=wordpress&utm_medium=link&utm_campaign=wp) lets you sell ebooks and turn your Wordpress site into an online ebook store. Your buyers can find all your ebooks in once place and buy direct from you. Payhip handles the transactions and the ebook downloads for your customers. There is no monthly fee, you simply pay 5% when you get paid.
 
 The [Payhip](https://payhip.com/?utm_source=wordpress&utm_medium=link&utm_campaign=wp) Wordpress plugin allows you to embed all your ebooks anywhere on your Wordpress site simply using a short code. Customers can click on each ebook and buy from you directly. We provide you with your customers emails so you can build up your mailing list. Enjoy high conversions and a smooth sales process.
 
 You can get a [Payhip account here](https://payhip.com/auth/register?utm_source=wordpress&utm_medium=link&utm_campaign=wp).
+
+= Payhip Features =
+
+* Sell ebooks directly to your customers
+* Offer discount coupon codes to sell more ebooks
+* Google Analytics integration to monitor your ebook sales
+* Pay-what-you-want pricing for your ebooks
+* Protect your ebooks with PDF stamping/watermarking
+* Sell your ebooks using Paypal and Stripe (credit cards)
+
+= Testimonials - they love Payhip! =
+
+> I love Payhip! So glad I went with them for my cooking eBook.
+> [@My_Moms_Recipes via Twitter](https://twitter.com/My_Moms_Recipes/status/492485717759496192)
+
+> Showing Etsy how it's done. No faff, no delay, no obfuscation #VATMOSS taken care of.
+> [@s_k_scissors via Twitter](https://twitter.com/s_k_scissors/status/547187363550855169)
+
+> Payhip is as close to the service for author-publishers I'd design. Highly recommended for authors.
+> [@MattFnWallace via Twitter](https://twitter.com/MattFnWallace/status/524251961730670593)
 
 == Installation ==
 
